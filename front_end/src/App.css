@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.notes-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5rem;
+}
